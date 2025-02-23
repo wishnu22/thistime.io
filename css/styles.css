@@ -520,7 +520,7 @@ input[type='checkbox'] {
 /******************/
 header {
     background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), 
-                url('../images/vish4.jpeg');
+                url('../images/carme.jpeg');
     background-repeat: no-repeat; /* Prevents repetition */
     background-size: cover; /* Ensures the image spans the full width */
     background-position: center calc(100% - 1rem); /* Moves the image slightly up */
